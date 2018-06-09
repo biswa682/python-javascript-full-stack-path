@@ -1,5 +1,5 @@
 After upadating
-
+What will happend after this
 # Full Stack Learning Path - Python, Django, JavaScript, React
 
 ## Command Line Basics
